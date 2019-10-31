@@ -22,6 +22,10 @@ We want examples of as many use cases in this repository as possible! Submit a P
 
 TODO
 
+### Sample Logger
+
+The [sample logger](logger) is a simple Node.js web app that takes in free form text via a text box and logs it to `stdout` for testing. This can be useful for testing that logs with different prefixes or content are routed to the correct place.
+
 ### Setup for the examples
 
 Before you use FireLens, familiarize yourself with [Amazon ECS](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/ECS_GetStarted_EC2.html) and with the [FireLens documentation](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/using_firelens.html).

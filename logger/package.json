@@ -1,0 +1,18 @@
+{
+  "name": "sample_logger",
+  "version": "1.0.0",
+  "description": "Simple web app that generates logs",
+  "author": {
+    "name": "Amazon Web Services",
+    "url": "https://aws.amazon.com",
+    "organization": true
+  },
+  "license": "Apache-2.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
